@@ -1,6 +1,22 @@
 {
   "Movies": [
     {
+      "Title": "Τρελλά κανάλια",
+      "ImageBack": "https://greek-movies.com/icon/movie/%CE%A4%CF%81%CE%B5%CE%BB%CE%BB%CE%AC%CE%BA%CE%B1%CE%BD%CE%AC%CE%BB%CE%B9%CE%B11987.jpg",
+      "ImageMain": "https://greek-movies.com/icon/movie/%CE%A4%CF%81%CE%B5%CE%BB%CE%BB%CE%AC%CE%BA%CE%B1%CE%BD%CE%AC%CE%BB%CE%B9%CE%B11987.jpg",
+      "Video": "https://voe.sx/2zu1j2zxyf6n",
+      "Description": "Ο Δάμων και ο Φιντίας είναι παιδικοί φίλοι, που μεγαλώνουν με το όνειρο να γίνουν διάσημοι ηθοποιοί. Ο ένας το κατορθώνει. Όμως το βίτσιο της χαρτοπαιξίας τον καταστρέφει και τότε ο άλλος, ο άσημος, αναλαμβάνει να τον βοηθήσει...",
+      "Year": "1987",
+      "Genre": "Κωμωδία",
+      "Duration": "1ωρ. 35λ.",
+      "isUnlocked": true,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": "8",
+      "End": "0"
+    },
+    {
       "Title": "Το τυχερό πανταλόνι",
       "ImageBack": "http://www.zougla.gr/assets/images/2872575.jpg",
       "ImageMain": "https://www.filmy.gr/wp-content/uploads/2020/08/The-Lucky-Trousers-50.jpg",

@@ -16,7 +16,9 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0    },
+      "End": 0,
+      "Fetch": "MediaFire"
+    },
     {
       "Title": "Το τυχερό πανταλόνι",
       "ImageBack": "http://www.zougla.gr/assets/images/2872575.jpg",
@@ -33,7 +35,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": "8",
-      "End": "0"
+      "End": "0",
+      "Fetch": "Voe"
     }
   ]
 }
